@@ -8,7 +8,7 @@ tr ' ' '\n' < azkabanscript-lowercaself.txt > azkabanscript-oneword.txt
 sort azkabanscript-oneword.txt > azkabanscript-onewordsort.txt
 uniq -c azkabanscript-onewordsort.txt > azkabanscript-wordfreq.txt
 
-163 a
+     163 a
      19 A
       1 aboard
      29 about
