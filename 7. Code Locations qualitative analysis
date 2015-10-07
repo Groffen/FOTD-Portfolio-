@@ -1,5 +1,4 @@
-Startklaar@Startklaar-pc /cygdrive/c/cygwin64/HP
-$ grep "Azkaban" azkabanbook.txt
+grep "Azkaban" azkabanbook.txt
 Harry Potter and the Prisoner of Azkaban
         Sirius Black, possibly the most infamous prisoner ever to be held in Azkaban fortress, is still eluding capture, the Ministry of Magic confirmed today.
       "If he weren't when he went to Azkaban, he will be now," said Ern in his slow voice. "I'd blow meself up before I set foot in that place. Serves him right, mind you... after what he did..."
@@ -44,8 +43,7 @@ supporters ended up in Azkaban, did they? There are still plenty out here, bidin
       "He can go to Azkaban," Harry repeated. "If anyone deserves that place, he does..."
       "Oh yes, they'll have to go," said Fudge, running his fingers distractedly through his hair. "Never dreamed they'd attempt to administer the Kiss on an innocent boy... Completely out of control... no, I'll have them packed off back to Azkaban tonight... Perhaps we should think about dragons at the school entrance..."
 
-Startklaar@Startklaar-pc /cygdrive/c/cygwin64/HP
-$ grep "Azkaban" azkabanscript.txt
+grep "Azkaban" azkabanscript.txt
                         Prisoner of Azkaban
                   locked up in Azkaban for it.
                   doesn't send people to Azkaban for
@@ -59,8 +57,7 @@ $ grep "Azkaban" azkabanscript.txt
                    years in Azkaban. We don't need a
 
 
-Startklaar@Startklaar-pc /cygdrive/c/cygwin64/HP
-$ grep "Hogsmeade" azkabanbook.txt
+grep "Hogsmeade" azkabanbook.txt
       Third years are permitted to visit the village of Hogsmeade on certain weekends. Please give the enclosed permission form to your parent or guardian to sign.
         Harry pulled out the Hogsmeade permission form and looked at it, no longer grinning. It would be wonderful to visit Hogsmeade on weekends; he knew it was an entirely wizarding village, and he had never set foot there. But how on earth was he going to persuade Uncle Vernon or Aunt Petunia to sign the form?
       Deciding that he'd worry about the Hogsmeade form when he woke up, Harry got back into bed and reached up to cross off another day on the chart he'd made for himself, counting down the days left until his return to Hogwarts. Then he took off his glasses and lay down; eyes open, facing his three birthday cards.
@@ -233,8 +230,7 @@ $ grep "Hogwarts" azkabanscript.txt
       Harry looks at Hogwarts. GRINS. Sirius does the same.
       DING! The Hogwarts BELL begins to TOLL. Harry and
 
- Startklaar@Startklaar-pc /cygdrive/c/cygwin64/HP
-$ grep "Shrieking Shack" azkabanbook.txt
+grep "Shrieking Shack" azkabanbook.txt
 Historical Sorcery it says the inn was the headquarters for the 1612 goblin rebellion, and the Shrieking Shack's supposed to be the most severely haunted building in Britain -"
       "They make a fuss about Hogsmeade, but I assure you, Harry, it's not all it's cracked up to be," he said seriously. "All right, the sweetshop's rather good, and Zonko's Joke Shop's frankly dangerous, and yes, the Shrieking Shack's always worth a visit, but really, Harry, apart from that, you're not missing anything."
       "We could go up to the Shrieking Shack -"
@@ -246,13 +242,11 @@ Historical Sorcery it says the inn was the headquarters for the 1612 goblin rebe
       "And does my evidence count for nothing?" snarled Snape. "Peter Pettigrew was not in the Shrieking Shack, nor did I see any sign of him on the grounds."
       "Here - I brought this from the Shrieking Shack last night," he said, handing Harry back the Invisibility Cloak. "And..." He hesitated, then held out the Marauder's Map too. "I am no longer your teacher, so I don't feel guilty about giving you back this as well. It's no use to me, and I daresay you, Ron, and Hermione will find uses for it."
 
-Startklaar@Startklaar-pc /cygdrive/c/cygwin64/HP
-$ grep "Shrieking Shack" azkabanscript.txt
+grep "Shrieking Shack" azkabanscript.txt
      veils, the Shrieking Shack an eerie silhouette in the
                  We're in the Shrieking Shack,
 
-Startklaar@Startklaar-pc /cygdrive/c/cygwin64/HP
-$ grep "Whomping Willow" azkabanbook.txt
+grep "Whomping Willow" azkabanbook.txt
       "And it hit - it hit - oh, Harry - it hit the Whomping Willow."
       Harry's insides lurched. The Whomping Willow was a very violent tree that stood alone in the middle of the grounds.
       "Well, you know the Whomping Willow," said Ron. "It - it doesn't like being hit."
@@ -269,8 +263,7 @@ $ grep "Whomping Willow" azkabanbook.txt
       "We're going to have to move," said Harry, thinking hard. "We've got to be able to see the Whomping Willow, or we won't know what's going on."
       The Whomping Willow was creaking and lashing out with its lower branches; they could see themselves darting here and there, trying to reach the trunk. And then the tree froze.
 
- Startklaar@Startklaar-pc /cygdrive/c/cygwin64/HP
-$ grep "Whomping Willow" azkabanscript.txt
+grep "Whomping Willow" azkabanscript.txt
      Hagrid's hut. The Whomping Willow looms in the distance.
      grass below. Circling over the Whomping Willow, past
      The Whomping Willow idly casts off a few withering
